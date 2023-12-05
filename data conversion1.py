@@ -7,5 +7,6 @@ d=2567
 e=hex(d)
 print(e)
 v="h"
+print(chr(v))
 n=ord(v)
 print(n)
