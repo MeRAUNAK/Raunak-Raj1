@@ -1,0 +1,11 @@
+s="2567"
+c=int(s,16)
+print(c)
+d=float(s)
+print(d)
+d=2567
+e=hex(d)
+print(e)
+v="h"
+n=ord(v)
+print(n)
